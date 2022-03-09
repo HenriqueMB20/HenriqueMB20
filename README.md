@@ -6,8 +6,6 @@ I’m a full stack developer currently working with development and integration 
 <img src="https://tenor.com/view/ferret-meemoo-feefoo-laptop-working-gif-19600681.gif" width="100" height="100" />
 </p>
 
----
-
 # ⚡Technologies
 
 <p>
