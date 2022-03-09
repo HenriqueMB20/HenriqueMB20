@@ -10,12 +10,10 @@ I’m a full stack developer currently working with development and integration 
 
 # ⚡Technologies
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueMB20&show_icons=true&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMB20&layout=compact&theme=vision-friendly-dark" />
-</a>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueMB20&show_icons=true&theme=vision-friendly-dark" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMB20&layout=compact&theme=vision-friendly-dark" width="49%"/>
+</p>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
