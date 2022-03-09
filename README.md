@@ -30,6 +30,4 @@ I’m a full stack developer currently working with development and integration 
 
 ## 📫 How to reach me:
 
----
-
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/henrique-mbusch)  &nbsp; <a href="mailto:henrique.mbusch@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
