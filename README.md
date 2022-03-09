@@ -1,6 +1,6 @@
 <h2 align="center">👋Hello there! I'm Henrique</h3>
 
-I’m a full stack developer currently working with development and integration of payment gateways. I'll not claim to be the most passionate developer, but when involved in a project i give my all to ensure quality and efficiency, after all there is no better feeling than a working code at the end of the day.
+I’m a full stack developer currently working with development and integration of payment gateways. I'll not claim to be the most passionate of developers, but when involved in a project i give my all to ensure quality and efficiency, after all there is no better feeling than a working code at the end of the day.
 
 <p align="center">
 <img src="https://tenor.com/view/ferret-meemoo-feefoo-laptop-working-gif-19600681.gif" width="100" height="100" />
